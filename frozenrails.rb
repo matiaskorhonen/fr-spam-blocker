@@ -5,7 +5,6 @@ require "bundler/setup"
 
 require "chatterbot/dsl"
 require "retryable"
-require "pry"
 
 #
 # this is the script for the twitter bot frozenrails
