@@ -1,1 +1,1 @@
-chatterbot: ./frozenrails.rb
+chatterbot: STREAMING=1 ./frozenrails.rb
